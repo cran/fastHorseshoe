@@ -1,0 +1,4 @@
+useDynLib(fastHorseshoe)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
+import(lars)

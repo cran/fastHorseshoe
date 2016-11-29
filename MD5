@@ -1,0 +1,11 @@
+0dcaadcdb7e87b64d5d2d827a771cd7d *DESCRIPTION
+3128c463768b32dd28f5f520dbf601e8 *NAMESPACE
+3226d05a5ec3f52af89c3255012a2182 *R/RcppExports.R
+c972b8bbacd79b72cc1d7b6fc2421d44 *R/fastHorseshoe.R
+d07fcdd9cd43c58cd4f27a68c0c679db *README.md
+7890aa90d27085c3d59f39a49ab5efd6 *man/fastHorseshoe.Rd
+dfabcf9ead0231ff0a41d9c3b095144f *man/fasthorseshoe-package.Rd
+699aa0f6bcb7c17f0da09120e7196cc3 *src/Makevars
+699aa0f6bcb7c17f0da09120e7196cc3 *src/Makevars.win
+e9b4ae5b01e08e0707dad6f3e63eb9a2 *src/RcppExports.cpp
+c723618c0d5f105303e69b2339091482 *src/fastHorseshoe.cpp
